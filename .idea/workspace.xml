@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e5d6f0f5-ea4d-4db0-afef-ee49feaecb68" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/RaceMe-HomePage.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CNAME" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Focus4-Home" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_attributes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LICENSE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contact_process.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/animate.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/flaticon.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/gijgo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/magnific-popup.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/nice-select.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/owl.carousel.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/slick.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/slicknav.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/style.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/theme-default.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/theme-default.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/themify-icons.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Flaticon.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Flaticon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Flaticon.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Flaticon.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Flaticon.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/fa-brands-400.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/fa-brands-400.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/fa-brands-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/fa-brands-400.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/fa-brands-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/fa-regular-400.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/fa-regular-400.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/fa-regular-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/fa-regular-400.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/fa-regular-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/fa-solid-900.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/fa-solid-900.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/fa-solid-900.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/fa-solid-900.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/fa-solid-900.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/flaticon.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/gijgo-material.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/gijgo-material.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/gijgo-material.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/gijgo-material.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/themify.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/themify.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/themify.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/themify.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/banner/banner.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/banner/bradcam.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/banner/product.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/icon/1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/icon/2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/icon/3.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/ilstrator/app.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/ilstrator/github-app.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/ilstrator/play.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/ilstrator_img/Leaderboards(NotUsed).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/ilstrator_img/check.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/ilstrator_img/choose_track.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/ilstrator_img/friends.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/ilstrator_img/milestones.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/ilstrator_img/profile.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/ilstrator_img/results.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/ilstrator_img/run.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/logo-02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/ajax-form.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/contact.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/gijgo.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/imagesloaded.pkgd.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/isotope.pkgd.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jquery.ajaxchimp.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jquery.counterup.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jquery.form.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jquery.magnific-popup.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jquery.scrollUp.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jquery.slicknav.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jquery.validate.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/mail-script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/nice-select.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/owl.carousel.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/plugins.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/popper.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/scrollIt.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/slick.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/vendor/jquery-1.12.4.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/vendor/modernizr-3.5.0.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/waypoints.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/wow.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/privacy_policy.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scss/_blog.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scss/_blog_part.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scss/_bradcam.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scss/_btn.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scss/_contact.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scss/_counter.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scss/_department.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scss/_elements.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scss/_emergency_contact.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scss/_experts.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scss/_extend.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scss/_features.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scss/_footer.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scss/_gallery.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scss/_header.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scss/_mixins.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scss/_offers.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scss/_prising.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scss/_responsive.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scss/_section_title.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scss/_service.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scss/_slick-nav.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scss/_slider.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scss/_tesmonial.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scss/_varriable.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scss/style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scss/theme-default.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/terms_and_conditions.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="1cY3JtXlboOpVr49Ak9Gaunc6Dh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/kirlosyousef/Developer/Focus4/Focus4-home",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="JavaScript Debug.terms_and_conditions.html">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/RaceMe-HomePage/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="privacy_policy.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/RaceMe-HomePage/privacy_policy.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="terms_and_conditions.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/RaceMe-HomePage/terms_and_conditions.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.terms_and_conditions.html" />
+        <item itemvalue="JavaScript Debug.privacy_policy.html" />
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e5d6f0f5-ea4d-4db0-afef-ee49feaecb68" name="Default Changelist" comment="" />
+      <created>1590691630939</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590691630939</updated>
+      <workItem from="1590691632123" duration="18000" />
+      <workItem from="1590691663860" duration="234000" />
+      <workItem from="1590691937764" duration="15286000" />
+      <workItem from="1590766351983" duration="2469000" />
+      <workItem from="1590861716642" duration="4306000" />
+      <workItem from="1591367873803" duration="3391000" />
+      <workItem from="1591460396365" duration="78000" />
+      <workItem from="1700851667840" duration="1000" />
+      <workItem from="1716736917030" duration="3010000" />
+      <workItem from="1717097270958" duration="6156000" />
+      <workItem from="1726144478165" duration="955000" />
+      <workItem from="1726322675090" duration="367000" />
+      <workItem from="1726845382904" duration="27000" />
+      <workItem from="1729107480932" duration="1986000" />
+      <workItem from="1733663654495" duration="755000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
